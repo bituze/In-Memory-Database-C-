@@ -1,4 +1,4 @@
-﻿namespace DMM.HEHE
+﻿namespace project1
 {
     partial class Form1
     {
