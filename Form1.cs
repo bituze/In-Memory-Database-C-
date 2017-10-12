@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
-namespace DMM.HEHE
+namespace project1
 {
     public partial class Form1 : Form
     {
